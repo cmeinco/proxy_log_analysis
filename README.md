@@ -19,5 +19,6 @@ Open data sets would need to show successful Internet access (proxy) logs, which
 - http://www.secrepo.com/squid/access.log.gz (needs review)
 
 
-
-
+## TODO
+[ ] Remove blocked/denied access from datasets, because it was blocked, ergo is "safe".
+[ ] move todos to issues.
