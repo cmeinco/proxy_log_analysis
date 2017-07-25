@@ -9,7 +9,8 @@
 I'm speculating the URI being requested can be tied to the bytes_in to detect variances and thereby detect anomolous or strange instances of those URIs.  I'm speculating that we can detect not only the malicious jquery javascript being requested (known problem space), but also detect other scripts or files being included which are abnormal and possibly malicious.
 
 ## Approach
-Open data sets would need to show successful Internet access (proxy) logs, which show the URI and the
+[ ] Explore the data, eat some food, drink some beer, explore data more; repeat. 
+
 
 ## Custom Data Parser (to move logs into csv format)
 - https://github.com/cmeinco/proxy_log_analysis (YOU ARE HERE.)
